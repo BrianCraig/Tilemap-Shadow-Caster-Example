@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrassAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fa18ce5d5082a9b258c142091f7bc297, type: 3}
+    totalSpriteSurfaceArea: 176400
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 952f8d00285fdaf47a5b1570b950385f, type: 3}
+  - {fileID: 21300000, guid: 4673c940548ca0a4cb8d59d535f432af, type: 3}
+  - {fileID: 21300000, guid: 43bd5b3158b9790468b6ebe39fce589e, type: 3}
+  - {fileID: 21300000, guid: 357a1881a67109146a281373dc6dff09, type: 3}
+  - {fileID: 21300000, guid: 9be662910fe13e04ba0170ddc1824626, type: 3}
+  - {fileID: 21300000, guid: 16af0e22bc3e40a4c934819c976a8017, type: 3}
+  - {fileID: 21300000, guid: 9ddfde3374ef8b248a1edb0a42b5dab1, type: 3}
+  - {fileID: 21300000, guid: 31ae03933ca3fe943bdb28eb74f5f550, type: 3}
+  - {fileID: 21300000, guid: f2af68a35ac2dea46a73f933aaef34ae, type: 3}
+  - {fileID: 21300000, guid: a52fb745da8f2ec439ccb20815588816, type: 3}
+  - {fileID: 21300000, guid: 5a6b5b453b483894a98a21e15547d51d, type: 3}
+  - {fileID: 21300000, guid: ab9406655dd049849901009895313a7a, type: 3}
+  - {fileID: 21300000, guid: f48794a51ce54b04bad969037399ea2e, type: 3}
+  - {fileID: 21300000, guid: cadd23b5c6defc742a11810c098df8cc, type: 3}
+  - {fileID: 21300000, guid: ff7ee1c5a395c4e438f8e73cca81e879, type: 3}
+  - {fileID: 21300000, guid: fb659236e7011324383276977b335a6f, type: 3}
+  - {fileID: 21300000, guid: b8cd4c77cf30a784195a2ae7a38906d4, type: 3}
+  - {fileID: 21300000, guid: 9479a7f745b790f46b938dd45d7f6bca, type: 3}
+  - {fileID: 21300000, guid: cc835dc8322365746904705345167f0f, type: 3}
+  - {fileID: 21300000, guid: 1f62ebf80b536ad4aa1dffde0f5d7bb1, type: 3}
+  - {fileID: 21300000, guid: 855e0739aec6336438d6d7b59f4b8298, type: 3}
+  - {fileID: 21300000, guid: c1adbb39b542621488d2031931a986c0, type: 3}
+  - {fileID: 21300000, guid: 3a4bb3593b868844c92408a83e8ffbc4, type: 3}
+  - {fileID: 21300000, guid: 24b73d8af37417a46b1b5f802532bd50, type: 3}
+  - {fileID: 21300000, guid: 1540b6ba9ee7a7a48960617b833d25df, type: 3}
+  - {fileID: 21300000, guid: c83f8fba26ba1634f9a4ed03a58e51f2, type: 3}
+  - {fileID: 21300000, guid: fe2ff83b538de5e4294d67746411942a, type: 3}
+  - {fileID: 21300000, guid: 035ed1bccb4c9934e85b867331ca6ccb, type: 3}
+  - {fileID: 21300000, guid: 47d972cc86e76f54f81bc807e474cc9e, type: 3}
+  - {fileID: 21300000, guid: 9ce118dc9162a7948bf5cd2cbe899542, type: 3}
+  - {fileID: 21300000, guid: 02b837fc8244e254c8d4ef60ed2aab55, type: 3}
+  - {fileID: 21300000, guid: 0540e91e636059848a5c5bf198f19fd1, type: 3}
+  - {fileID: 21300000, guid: b869517e1bb47244ca5c3199d582d64b, type: 3}
+  - {fileID: 21300000, guid: 2f1e2a1fe41956f4d89c483d40bea164, type: 3}
+  - {fileID: 21300000, guid: 165cf74fdb064f643ba8c9d65331a4ad, type: 3}
+  - {fileID: 21300000, guid: 1e9c378f710fa2c45803213f3651b8be, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - grassHalfRight
+  - slice29_29
+  - slice22_22
+  - slice34_34
+  - slice26_26
+  - slice07_07
+  - slice03_03
+  - slice13_13
+  - slice24_24
+  - slice30_30
+  - slice06_06
+  - slice27_27
+  - slice12_12
+  - slice36_36
+  - grassHalfLeft
+  - grassHalf
+  - slice05_05
+  - slice19_19
+  - slice20_20
+  - slice28_28
+  - slice04_04
+  - slice35_35
+  - slice17_17
+  - grassHalfMid
+  - slice01_01
+  - slice31_31
+  - slice14_14
+  - slice21_21
+  - slice32_32
+  - slice16_16
+  - slice15_15
+  - slice33_33
+  - slice23_23
+  - slice18_18
+  - slice25_25
+  - slice02_02
+  m_RenderDataMap: {}
+  m_Tag: GrassAtlas
+  m_IsVariant: 0

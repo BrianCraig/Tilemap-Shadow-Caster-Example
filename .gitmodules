@@ -1,0 +1,3 @@
+[submodule "Assets/Tilemap-Shadow-Caster"]
+	path = Assets/Tilemap-Shadow-Caster
+	url = git@github.com:BrianCraig/Tilemap-Shadow-Caster.git

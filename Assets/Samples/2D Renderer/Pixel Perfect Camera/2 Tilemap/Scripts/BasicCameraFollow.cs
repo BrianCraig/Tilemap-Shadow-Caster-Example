@@ -1,0 +1,16 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class BasicCameraFollow : MonoBehaviour 
+{
+	public GameObject followTarget;
+	private Vector3 targetPos;
+	public float moveSpeed;
+	
+	void FixedUpdate ()
+	{
+		targetPos = new Vector3(followTarget.transform.position.x, followTarget.transform.position.y, transform.position.z);
+		transform.position = Vector3.Lerp(transform.position, targetPos, moveSpeed);
+	}
+
+}
