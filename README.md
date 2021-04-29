@@ -1,7 +1,12 @@
 # TileMap Shadow Caster Example
 
 This Repo contains an example of the [Tilemap Shadow Caster](https://github.com/BrianCraig/Tilemap-Shadow-Caster).
-Clone it an open it, working on Unity 2020.2x.
+
+Clone the repo with
+```
+git clone --recurse-submodules git@github.com:BrianCraig/Tilemap-Shadow-Caster-Example.git
+```
+and open it with UnityHub
 
 See example video [here](https://streamable.com/3rhm8l)
 
